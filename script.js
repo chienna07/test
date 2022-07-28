@@ -100,47 +100,6 @@ const Header = props => {
   About Component
  ***********************/
 
-const About = props => {
-  return /*#__PURE__*/(
-    React.createElement("section", { id: "about" }, /*#__PURE__*/
-    React.createElement("div", { className: "wrapper" }, /*#__PURE__*/
-    React.createElement("article", null, /*#__PURE__*/
-    React.createElement("div", { className: "title" }, /*#__PURE__*/
-    React.createElement("h3", null, "Who's this guy?"), /*#__PURE__*/
-    React.createElement("p", { className: "separator" })), /*#__PURE__*/
-
-    React.createElement("div", { className: "desc full" }, /*#__PURE__*/
-    React.createElement("h4", { className: "subtitle" }, "My name is Yago."), /*#__PURE__*/
-    React.createElement("p", null, "I am a web developer and UX designer based in the beautiful west coast of Spain, Galicia."), /*#__PURE__*/
-
-
-
-    React.createElement("p", null, "I really enjoy solving problems as well as making things pretty and easy to use. I can't stop learning new things; the more, the better. I also love photography, a hobby I'm taking along since the good old film cameras. Oh, and rice with milk; I have a passion for rice with milk!")), /*#__PURE__*/
-
-
-
-
-
-
-    React.createElement("div", { className: "title" }, /*#__PURE__*/
-    React.createElement("h3", null, "What does he do?"), /*#__PURE__*/
-    React.createElement("p", { className: "separator" })), /*#__PURE__*/
-
-    React.createElement("div", { className: "desc" }, /*#__PURE__*/
-    React.createElement("h4", { className: "subtitle" }, "I'm a programmer."), /*#__PURE__*/
-    React.createElement("p", null, "For the front-end I usually work with Javascript, either standalone or including popular frameworks like ReactJS and VueJS. I also make the web pretty by using Sass, CSS and, whenever needed, any of their friends: Bootstrap, Bulma, etc."), /*#__PURE__*/
-
-
-
-
-    React.createElement("p", null, "For the back-end I also work with Javascript (NodeJS, Express, MongoDB, etc). But, of course, whenever the project requires PHP, I do PHP as well (Wordpress, Laravel, etc).")), /*#__PURE__*/
-
-
-
-
-    React.createElement("div", { className: "desc" }, /*#__PURE__*/
-    React.createElement("h4", { className: "subtitle" }, "Also a designer."), /*#__PURE__*/
-    React.createElement("p", null, "I feel comfortable working with many Adobe products. Photoshop, Illustrator, InDesign, Lightroom or Xd are some kind of industry standards and I love working with them. I'm not limited to them, though: Gimp, Inkscape or Figma are also very valid applications that I've been working with."), /*#__PURE__*/
 
 
 
